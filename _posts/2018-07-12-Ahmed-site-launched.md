@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ahmed Mohamed, Horrible Cop, Launches Site"
+title: "Ahmed"
 date: 2018-07-12
 ---
 
